@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  background-color: #f3f3f3;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #0066cc;
+}
+
+.spot {
+  background-color: white;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
